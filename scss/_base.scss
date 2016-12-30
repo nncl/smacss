@@ -1,0 +1,22 @@
+// Define how an element should look like anywhere on the page,
+// they are the default elements.
+
+// DO NOT add IDs or Classes here
+
+// TODO add @import "normalize";
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+a {
+  color: red;
+
+  &:hover {
+    color: blue;
+  }
+}
