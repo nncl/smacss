@@ -1,0 +1,3 @@
+# SMACSS
+
+Just training.
