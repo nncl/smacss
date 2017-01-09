@@ -2,6 +2,8 @@
 
 Just training with [this awesome class](https://www.youtube.com/watch?v=6co781JgoqQ&spfreload=5).
 
+There's also a [course on Pluralsight](https://app.pluralsight.com/player?course=scalable-modular-architecture-for-css&author=jonathan-snook&name=scalable-modular-architecture-for-css-m1&clip=0&mode=live) if you want.
+
 It has 5 categories, and you will see right now.
 
 ## Base
